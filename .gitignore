@@ -1,11 +1,11 @@
-# Created by .gitignore support plugin (hsz.mobi)
 
+# Created by .gitignore support plugin (hsz.mobi)
+# Ignore Gradle GUI config
 ### Gradle template
 .gradle
-build/
-
-# Ignore Gradle GUI config
-gradle-app.setting
-
 .idea/artifacts/
 .idea/libraries/
+.idea/workspace.xml
+build/
+gradle-app.setting
+out
