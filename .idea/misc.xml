@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatter">
+    <option name="defaultSettings" value="true" />
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1375864328898" />
+    <option name="importOrderConfigFilePath" value="$USER_HOME$/workspace/bt-itrader/dev-shared/editor-code-format/eclipse.importorder" />
+    <option name="importOrderFromFile" value="true" />
+    <option name="name" value="default" />
+    <option name="pathToConfigFileJava" value="$USER_HOME$/workspace/bt-itrader/dev-shared/editor-code-format/eclipse-java-editor.xml" />
+    <option name="selectedJavaProfile" value="Collaboration-Dev" />
+  </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+
